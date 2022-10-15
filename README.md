@@ -11,4 +11,4 @@ produção de layout e responsividade focado inteiramente nas tecnologias mencio
 
 Apenas não mudei a cor da foto.
 
-<a href="">Link para visualização.</a>
+<a href="https://mariaeduarda-deoliveira.github.io/stats-preview-card/">Link para visualização.</a>
